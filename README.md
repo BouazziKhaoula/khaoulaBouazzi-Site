@@ -1,6 +1,6 @@
 # Dr. Khaoula Bouazzi — Bilingual Portfolio
 
-Static bilingual portfolio in HTML/CSS/JavaScript. Compatible with GitHub Pages.
+Mon portfolio. Compatible with GitHub Pages.
 
 ## Structure
 - `index.html` — main one-page website
